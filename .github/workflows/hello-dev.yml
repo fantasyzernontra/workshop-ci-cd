@@ -8,7 +8,7 @@ on:
 env:
   PROJECT_ID: multi-k8s-282304
   BRANCH_NAME: develop
-  RUN_REGION: asia-southeast1-b
+  RUN_REGION: asia-southeast1
   SERVICE_NAME: hello
 
 jobs:
